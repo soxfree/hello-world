@@ -2,4 +2,4 @@
 Just another repository
 
 
-following instruction to learn how to use github. Thanks guys
+following instructions to learn how to use github. Thanks guys
